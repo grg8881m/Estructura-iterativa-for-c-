@@ -1,0 +1,27 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int energia;
+		
+		for(energia=90; energia<=100; energia++){
+		 Console.WriteLine("Energia: "+ energia);
+		}
+	}
+}
+/*}Energia: 90
+Energia: 91
+Energia: 92
+Energia: 93
+Energia: 94
+Energia: 95
+Energia: 96
+Energia: 97
+Energia: 98
+Energia: 99
+Energia: 100
+
+
+*/
